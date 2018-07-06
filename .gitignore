@@ -108,3 +108,4 @@ yarn-error.log
 # Custome @mnikolic #
 build
 __tests__/__coverage__
+*.iml
